@@ -3,7 +3,7 @@ This respository contains a basic implementation of the Snake Game. The minimum 
 - automatic mode: the game will automatically generate directions to consume the first pellet on the board and then terminate.
 - interactive mode: the user will be prompted to input directions for the snake to move along the board until the user either wins, looses or exits. The snake moves in time intervals of 1 second. Not providing an input will result in the snake moving forward. **The user needs to confirm the input by pressing Enter**.
 
-## Requriements
+## Requirements
 It is expected that the host has Python installed on the machine. All instructions below assume Python3 to be installed. Follow the steps below to create a virtual environment and install the necessary packages.
 ```
 python3 -m venv venv
