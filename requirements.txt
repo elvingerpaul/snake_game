@@ -1,0 +1,2 @@
+coverage==7.6.0
+inputimeout==1.0.4
